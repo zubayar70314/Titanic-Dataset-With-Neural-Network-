@@ -1,4 +1,4 @@
-# Titanic-Dataset-Wth-Neural-Network-
+# Titanic-Dataset-With-Neural-Network-
 OVERVIEW: 
 We will take titanic dataset there will be some columns like Passenger, Pclass, Name, Sex, Age, SibSp, Ticket etc. We will use some python tools to predict that which passenger
 will survive which passenger will not. Because when the Titanic sank that time survival team gave priority some passengers to see some things There were just enough rafts to 
